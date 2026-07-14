@@ -23,10 +23,12 @@ Turns curiosity into code — one weird idea at a time.
 
 ```js
 const srikumar = {
+
     pronouns: "He" | "Him",
     askMeAbout: ["ML", "computer vision", "quantum computing"],
     currentlyExploring: "agentic AI systems",
-    debuggingStyle: "print statements first, ask questions later",
+    debuggingStyle: "print statements first, ask questions later"
+
 };
 ```
 
