@@ -14,19 +14,19 @@
 
 ## 👋 About Me
 
-Builds by breaking things on purpose, then putting them back together better.
+Turns curiosity into code — one weird idea at a time.
 
 <table>
 <tr>
 <td valign="top" width="65%">
 
+
 ```js
 const srikumar = {
     pronouns: "He" | "Him",
     askMeAbout: ["ML", "computer vision", "quantum computing"],
-    currentlyBuilding: "things that break on purpose",
-    funFact: "learns best by taking it apart first",
-    currentFocus: "AI/ML projects, one weird idea at a time"
+    currentlyExploring: "agentic AI systems",
+    debuggingStyle: "print statements first, ask questions later",
 };
 ```
 
